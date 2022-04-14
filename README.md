@@ -1,5 +1,5 @@
 # HyperMeshColorPalette
-A mapping of the colors used in HyperMesh 2017. 
+A mapping of the colors used in HyperMesh 2017.
 
 These colors were found using a tcl script called ``hm_colors_to_file.tcl`` which does exactly what the name suggests. 
 
@@ -9,6 +9,8 @@ These colors were found using a tcl script called ``hm_colors_to_file.tcl`` whic
 I do not own any of the HyperMesh, HyperWorks, or Altair trademarks, copyrights, or other trade secrets which might be implied, included, or mentioned in this repository. This information in this repository is provided only for those who might need it for their own purposes. 
 
 **There is no warranty or coverage included with this content. It is up to the user to verify this content for their own usage. The author of the files, code, and other content in this repository cannot be held reponsible for any outcomes that result from usage of this content.**
+
+**NOTE**: The Tcl script in this repository has not been tested with any version of HyperMesh other than HyperMesh 2017.2. It _should_ work with later versions but there is no guarentee. Some of the HyperMesh Tcl API was changed sometime between HyperMesh version 2017 and 2021 so your results may vary.
 
 ---
 
