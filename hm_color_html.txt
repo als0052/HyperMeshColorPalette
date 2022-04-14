@@ -1,0 +1,256 @@
+<div class="input-color">
+	<p class="description">1: (0, 0, 0) #000000</p>
+	<div class="color-box" style="background-color: #000000;"></div>
+</div>
+<div class="input-color">
+	<p class="description">2: (255, 255, 255) #ffffff</p>
+	<div class="color-box" style="background-color: #ffffff;"></div>
+</div>
+<div class="input-color">
+	<p class="description">3: (255, 0, 0) #ff0000</p>
+	<div class="color-box" style="background-color: #ff0000;"></div>
+</div>
+<div class="input-color">
+	<p class="description">4: (0, 255, 0) #00ff00</p>
+	<div class="color-box" style="background-color: #00ff00;"></div>
+</div>
+<div class="input-color">
+	<p class="description">5: (0, 0, 255) #0000ff</p>
+	<div class="color-box" style="background-color: #0000ff;"></div>
+</div>
+<div class="input-color">
+	<p class="description">6: (255, 255, 0) #ffff00</p>
+	<div class="color-box" style="background-color: #ffff00;"></div>
+</div>
+<div class="input-color">
+	<p class="description">7: (0, 255, 255) #00ffff</p>
+	<div class="color-box" style="background-color: #00ffff;"></div>
+</div>
+<div class="input-color">
+	<p class="description">8: (255, 0, 255) #ff00ff</p>
+	<div class="color-box" style="background-color: #ff00ff;"></div>
+</div>
+<div class="input-color">
+	<p class="description">9: (204, 204, 204) #cccccc</p>
+	<div class="color-box" style="background-color: #cccccc;"></div>
+</div>
+<div class="input-color">
+	<p class="description">10: (185, 185, 185) #b9b9b9</p>
+	<div class="color-box" style="background-color: #b9b9b9;"></div>
+</div>
+<div class="input-color">
+	<p class="description">11: (163, 163, 163) #a3a3a3</p>
+	<div class="color-box" style="background-color: #a3a3a3;"></div>
+</div>
+<div class="input-color">
+	<p class="description">12: (140, 140, 140) #8c8c8c</p>
+	<div class="color-box" style="background-color: #8c8c8c;"></div>
+</div>
+<div class="input-color">
+	<p class="description">13: (118, 118, 118) #767676</p>
+	<div class="color-box" style="background-color: #767676;"></div>
+</div>
+<div class="input-color">
+	<p class="description">14: (96, 96, 96) #606060</p>
+	<div class="color-box" style="background-color: #606060;"></div>
+</div>
+<div class="input-color">
+	<p class="description">15: (73, 73, 73) #494949</p>
+	<div class="color-box" style="background-color: #494949;"></div>
+</div>
+<div class="input-color">
+	<p class="description">16: (51, 51, 51) #333333</p>
+	<div class="color-box" style="background-color: #333333;"></div>
+</div>
+<div class="input-color">
+	<p class="description">17: (254, 56, 23) #fe3817</p>
+	<div class="color-box" style="background-color: #fe3817;"></div>
+</div>
+<div class="input-color">
+	<p class="description">18: (235, 49, 23) #eb3117</p>
+	<div class="color-box" style="background-color: #eb3117;"></div>
+</div>
+<div class="input-color">
+	<p class="description">19: (200, 40, 23) #c82817</p>
+	<div class="color-box" style="background-color: #c82817;"></div>
+</div>
+<div class="input-color">
+	<p class="description">20: (130, 5, 23) #820517</p>
+	<div class="color-box" style="background-color: #820517;"></div>
+</div>
+<div class="input-color">
+	<p class="description">21: (49, 111, 255) #316fff</p>
+	<div class="color-box" style="background-color: #316fff;"></div>
+</div>
+<div class="input-color">
+	<p class="description">22: (44, 102, 236) #2c66ec</p>
+	<div class="color-box" style="background-color: #2c66ec;"></div>
+</div>
+<div class="input-color">
+	<p class="description">23: (35, 85, 199) #2355c7</p>
+	<div class="color-box" style="background-color: #2355c7;"></div>
+</div>
+<div class="input-color">
+	<p class="description">24: (21, 49, 126) #15317e</p>
+	<div class="color-box" style="background-color: #15317e;"></div>
+</div>
+<div class="input-color">
+	<p class="description">25: (255, 131, 88) #ff8358</p>
+	<div class="color-box" style="background-color: #ff8358;"></div>
+</div>
+<div class="input-color">
+	<p class="description">26: (238, 117, 81) #ee7551</p>
+	<div class="color-box" style="background-color: #ee7551;"></div>
+</div>
+<div class="input-color">
+	<p class="description">27: (201, 99, 65) #c96341</p>
+	<div class="color-box" style="background-color: #c96341;"></div>
+</div>
+<div class="input-color">
+	<p class="description">28: (130, 56, 23) #823817</p>
+	<div class="color-box" style="background-color: #823817;"></div>
+</div>
+<div class="input-color">
+	<p class="description">29: (95, 181, 255) #5fb5ff</p>
+	<div class="color-box" style="background-color: #5fb5ff;"></div>
+</div>
+<div class="input-color">
+	<p class="description">30: (89, 167, 236) #59a7ec</p>
+	<div class="color-box" style="background-color: #59a7ec;"></div>
+</div>
+<div class="input-color">
+	<p class="description">31: (74, 140, 199) #4a8cc7</p>
+	<div class="color-box" style="background-color: #4a8cc7;"></div>
+</div>
+<div class="input-color">
+	<p class="description">32: (44, 85, 126) #2c557e</p>
+	<div class="color-box" style="background-color: #2c557e;"></div>
+</div>
+<div class="input-color">
+	<p class="description">33: (254, 53, 138) #fe358a</p>
+	<div class="color-box" style="background-color: #fe358a;"></div>
+</div>
+<div class="input-color">
+	<p class="description">34: (235, 49, 127) #eb317f</p>
+	<div class="color-box" style="background-color: #eb317f;"></div>
+</div>
+<div class="input-color">
+	<p class="description">35: (199, 40, 105) #c72869</p>
+	<div class="color-box" style="background-color: #c72869;"></div>
+</div>
+<div class="input-color">
+	<p class="description">36: (129, 5, 65) #810541</p>
+	<div class="color-box" style="background-color: #810541;"></div>
+</div>
+<div class="input-color">
+	<p class="description">37: (163, 124, 255) #a37cff</p>
+	<div class="color-box" style="background-color: #a37cff;"></div>
+</div>
+<div class="input-color">
+	<p class="description">38: (150, 115, 236) #9673ec</p>
+	<div class="color-box" style="background-color: #9673ec;"></div>
+</div>
+<div class="input-color">
+	<p class="description">39: (126, 94, 199) #7e5ec7</p>
+	<div class="color-box" style="background-color: #7e5ec7;"></div>
+</div>
+<div class="input-color">
+	<p class="description">40: (80, 56, 126) #50387e</p>
+	<div class="color-box" style="background-color: #50387e;"></div>
+</div>
+<div class="input-color">
+	<p class="description">41: (255, 189, 185) #ffbdb9</p>
+	<div class="color-box" style="background-color: #ffbdb9;"></div>
+</div>
+<div class="input-color">
+	<p class="description">42: (240, 175, 170) #f0afaa</p>
+	<div class="color-box" style="background-color: #f0afaa;"></div>
+</div>
+<div class="input-color">
+	<p class="description">43: (203, 146, 142) #cb928e</p>
+	<div class="color-box" style="background-color: #cb928e;"></div>
+</div>
+<div class="input-color">
+	<p class="description">44: (131, 31, 88) #831f58</p>
+	<div class="color-box" style="background-color: #831f58;"></div>
+</div>
+<div class="input-color">
+	<p class="description">45: (252, 62, 255) #fc3eff</p>
+	<div class="color-box" style="background-color: #fc3eff;"></div>
+</div>
+<div class="input-color">
+	<p class="description">46: (233, 56, 236) #e938ec</p>
+	<div class="color-box" style="background-color: #e938ec;"></div>
+</div>
+<div class="input-color">
+	<p class="description">47: (198, 49, 199) #c631c7</p>
+	<div class="color-box" style="background-color: #c631c7;"></div>
+</div>
+<div class="input-color">
+	<p class="description">48: (129, 27, 126) #811b7e</p>
+	<div class="color-box" style="background-color: #811b7e;"></div>
+</div>
+<div class="input-color">
+	<p class="description">49: (255, 179, 23) #ffb317</p>
+	<div class="color-box" style="background-color: #ffb317;"></div>
+</div>
+<div class="input-color">
+	<p class="description">50: (240, 165, 23) #f0a517</p>
+	<div class="color-box" style="background-color: #f0a517;"></div>
+</div>
+<div class="input-color">
+	<p class="description">51: (203, 139, 23) #cb8b17</p>
+	<div class="color-box" style="background-color: #cb8b17;"></div>
+</div>
+<div class="input-color">
+	<p class="description">52: (131, 83, 23) #835317</p>
+	<div class="color-box" style="background-color: #835317;"></div>
+</div>
+<div class="input-color">
+	<p class="description">53: (97, 254, 110) #61fe6e</p>
+	<div class="color-box" style="background-color: #61fe6e;"></div>
+</div>
+<div class="input-color">
+	<p class="description">54: (90, 236, 100) #5aec64</p>
+	<div class="color-box" style="background-color: #5aec64;"></div>
+</div>
+<div class="input-color">
+	<p class="description">55: (78, 200, 82) #4ec852</p>
+	<div class="color-box" style="background-color: #4ec852;"></div>
+</div>
+<div class="input-color">
+	<p class="description">56: (53, 125, 44) #357d2c</p>
+	<div class="color-box" style="background-color: #357d2c;"></div>
+</div>
+<div class="input-color">
+	<p class="description">57: (255, 235, 124) #ffeb7c</p>
+	<div class="color-box" style="background-color: #ffeb7c;"></div>
+</div>
+<div class="input-color">
+	<p class="description">58: (244, 217, 114) #f4d972</p>
+	<div class="color-box" style="background-color: #f4d972;"></div>
+</div>
+<div class="input-color">
+	<p class="description">59: (207, 183, 96) #cfb760</p>
+	<div class="color-box" style="background-color: #cfb760;"></div>
+</div>
+<div class="input-color">
+	<p class="description">60: (133, 116, 57) #857439</p>
+	<div class="color-box" style="background-color: #857439;"></div>
+</div>
+<div class="input-color">
+	<p class="description">61: (201, 254, 23) #c9fe17</p>
+	<div class="color-box" style="background-color: #c9fe17;"></div>
+</div>
+<div class="input-color">
+	<p class="description">62: (187, 236, 23) #bbec17</p>
+	<div class="color-box" style="background-color: #bbec17;"></div>
+</div>
+<div class="input-color">
+	<p class="description">63: (158, 200, 23) #9ec817</p>
+	<div class="color-box" style="background-color: #9ec817;"></div>
+</div>
+<div class="input-color">
+	<p class="description">64: (100, 125, 23) #647d17</p>
+	<div class="color-box" style="background-color: #647d17;"></div>
+</div>
